@@ -8,6 +8,7 @@ category: [programmers, Lv1]
 tags:
 published: true
 sitemap: true
+pin : true
 ---
 ## 프로그래머스 문제 풀기
 
